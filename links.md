@@ -8,9 +8,8 @@ modified: 9-14-2019
 comments: false
 ---
 
+![follow me!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPdb_m0eYeQQNGk796cpoGFfcHbCiVm4vRUg&s)
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Telegram](https://t.me/nimabbj)
+* [Email](ni_boorboor@comp.iust.ac.ir)
 
