@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Nima Boorboor"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pic.jpg"
   bio              : I'm the web designer and student.
   location         : "تهران"
-  email            : sauleh@gmail.com
+  email            : ni_boorboor@comp.iust.ac.ir
   twitter: sauleh_e
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
+  github: nimabj
   instagram: saulehe
   links:
     - label: "Email"
@@ -124,9 +124,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
