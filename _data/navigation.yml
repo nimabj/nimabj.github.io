@@ -3,7 +3,7 @@ main:
   - title: "CV📃"
     url: /cv/
 #  - title: "Courses"
-#   url: /courses/
+#    url: /courses/
 #  - title: "project"
 #    url: /project/
 #  - title: "Friends"
@@ -12,8 +12,8 @@ main:
     url: /follow/
 #  - title: "Hobbies"
 #    url: /hobbies/  
-#  - title: "Gallery"
-#    url: /gallery/
+  - title: "Gallery"
+    url: /gallery/
   - title: "Blog✍"
     url: /blog/
   # - title: "About"
